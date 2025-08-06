@@ -1,0 +1,25 @@
+import json
+
+def process_posts(raw_file_path, processed_file_path="data/processed_posts.json"):
+    enriched_posts = []
+    with open(raw_file_path, encoding='utf-8') as file:
+        posts = json.load(file)
+        # print(posts)
+        for post in posts:
+            metadata = extract_metadata(post['text'])
+            post_with_metadata = post | metadata # Now this variable will have text, engagement and the characteristics of the post
+            enriched_posts.append(post_with_metadata)
+
+    # Test to see if the enriched post is working properly
+    # for epost in enriched_posts:
+    #     print(epost)
+
+def extract_metadata(post):
+    return {
+        'line_count': 10,
+        'language': 'English',
+        'tags': ['Mental Health','Motivation']
+    } # this is later achieved through LLM
+
+if __name__ == "__main__":
+    process_posts("Data/raw_data.json", "Data/processed_posts.json")
