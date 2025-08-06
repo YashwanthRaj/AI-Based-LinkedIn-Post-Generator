@@ -1,16 +1,23 @@
-# This is a sample Python script.
+import streamlit as st
+from few_shot import FewShotPosts
+from post_generator import generate_post
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+def main():
+    st.title("LinkedIn Post Generator")
+    col1, col2 = st.columns(2)
+
+    fs = FewShotPosts()
+    with col1:
+        selected_tag = st.selectbox("Title", options=fs.get_tags())
+
+    with col2:
+        selected_length = st.selectbox("Length", options=["Short", "Medium", "Long"])
+
+    if st.button("Generate"):
+        post = generate_post(selected_tag, selected_length)
+        st.write(post)
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+if __name__ == "__main__":
+    main()
