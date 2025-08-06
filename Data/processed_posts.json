@@ -1,0 +1,164 @@
+[
+    {
+        "text": "As students get ready to start classes around the world, we're making our most advanced AI tools available to college students in the US, Japan, Indonesia, South Korea, and Brazil, for free through a 12-month Google AI Pro plan. We\u2019re also funding $1 billion to support AI education and job training programs, including making our Grow with Google AI and career training free for every college student in America. \n\nHaving regular access to computers in grad school changed my life, and led me on the path to Google. It\u2019s my hope that bringing the best AI tools to today\u2019s college students will open up new worlds for them, too. Deadline for students to apply for the AI Pro Plan offer is October 6th! More details in my blog post here:\nhttps://lnkd.in/e9WjqKNC",
+        "engagement": 2385,
+        "line_count": 4,
+        "tags": [
+            "AI",
+            "Google"
+        ]
+    },
+    {
+        "text": "A milestone for the use of AI in cybersecurity: Our security AI agent, Big Sleep, proactively found a major vulnerability in SQLite, a popular open-source library, that attackers were about to exploit. Our teams were able to cut off the threat before it impacted users. We believe this is a first for AI in cybersecurity, which could go a long way in stopping threats before they become widespread. More from our recent AI security",
+        "engagement": 12958,
+        "line_count": 7,
+        "tags": [
+            "Cybersecurity",
+            "AI in Cybersecurity"
+        ]
+    },
+    {
+        "text": "Fusion energy could help meet the world\u2019s energy needs for generations to come. That\u2019s why we\u2019re making a long-term bet to help prove and scale it, in the same way we\u2019re doing for nuclear energy from small modular reactors and geothermal. \n\nTo start, we\u2019re making the largest direct corporate purchase of fusion power from Commonwealth Fusion Systems\u2019s future plant. We\u2019re also investing to help them build on promising breakthroughs. For example, their high-temperature superconductor magnets can be used by smaller machines, which are significantly cheaper and faster to build.\n\nThe path to commercialization won\u2019t be easy, but we think the upsides could be transformative.",
+        "engagement": 7348,
+        "line_count": 6,
+        "tags": [
+            "Fusion Energy",
+            "Nuclear Energy"
+        ]
+    },
+    {
+        "text": "Probably one of the longest interviews I\u2019ve ever done \ud83d\ude05, but I really enjoyed my wide-ranging conversation with Lex Fridman and going deep on so many areas of technology progress. Plus Lex tries out our new XR glasses and Google Beam!",
+        "engagement": 7972,
+        "line_count": 3,
+        "tags": [
+            "Google Beam",
+            "Technology Progress"
+        ]
+    },
+    {
+        "text": "Hello from Google I/O! Just got off the stage here at Shoreline Amphitheatre in Mountain View, where we shared how decades of AI research is becoming reality for people around the world. A few of the things we announced:\n\n- AI Mode in Search is now rolling out to everyone in the US, expanding on what AI Overviews can do.\n\n- An improved Gemini 2.5 Flash and an enhanced Deep Think mode coming to Gemini 2.5 Pro.\n\n- Veo 3 is state of the art, and with a new filmmaking tool Flow, we\u2019re combining the best of Veo, Imagen and Gemini.\n\n- A new agent mode in the Gemini app can help you get more done across the web.\n\n- New real-time translation is coming to Google Meet, and we introduced an AI-first video platform for 3D experiences called Google Beam. \n\n- Personalized smart replies are coming to Gmail \n\n- A glimpse into the future with XR glasses\n\nWe also shared some of the incredible momentum we\u2019re seeing with our models, the rapid adoption of AI across our products, and much more.",
+        "engagement": 19008,
+        "line_count": 10,
+        "tags": [
+            "AI Mode",
+            "Google Beam"
+        ]
+    },
+    {
+        "text": "It was great to sit down with David Friedberg from the All-In team for a wide-ranging conversation. Fun to reminisce and look ahead\u2026 from how we see a big opportunity with Search, the investments we\u2019re making in our world-class infrastructure and TPUs, and how we\u2019re leaning into these moments of massive innovation.\n\nThanks again to David for the time.",
+        "engagement": 5974,
+        "line_count": 6,
+        "tags": [
+            "Search",
+            "TPUs"
+        ]
+    },
+    {
+        "text": "It\u2019s been a strong start to 2025 \u2014 and we\u2019re only just getting started \ud83d\ude80\nAcross Google and Alphabet, Q1 saw great momentum in our products, our platforms, and the impact we\u2019re having around the world.\n\nA few highlights:\n\n\ud83d\udd39 Gemini 2.5, our most intelligent model yet, is leading the industry and sets a strong foundation for our future innovation.\n\ud83d\udd39 AI Overviews in Search are now used by over 1.5 billion people each month, and we\u2019re excited about the early reaction to AI Mode in Search, lots more to come.\n\ud83d\udd39 Subscriptions surpassed 270 million, led by YouTube and Google One.\n\ud83d\udd39 Gemini is now available in all 15 Google products that have over half a billion users \u2014 and it\u2019s redefining what AI-first smartphones can do, including our latest Pixel 9a.\n\ud83d\udd39 At Google Cloud Next, we launched Ironwood, our most powerful TPU to date, and became the first to offer NVIDIA\u2019s next-gen Blackwell GPUs. We\u2019re also rolling out new tools for building and orchestrating multi-agent AI systems.\n\ud83d\udd39 YouTube celebrated its 20th birthday \u2014 still #1 in U.S. streaming on TVs, and now with 125M+ Music & Premium subscribers and over a billion podcast users.\n\ud83d\udd39Waymo is now serving 250,000+ paid rides a week, and started operation in Silicon Valley. Miami and DC coming next year!\n\nThis work is only possible thanks to the incredible teams across Alphabet \u2014 thank you. With I/O, Brandcast, and Google Marketing Live just around the corner \u2014 there\u2019s so much more to come in Q2!",
+        "engagement": 13015,
+        "line_count": 20,
+        "tags": [
+            "AI",
+            "Google"
+        ]
+    },
+    {
+        "text": "Hello, Las Vegas! Had a great time this morning on stage at #GoogleCloudNext where we unveiled our 7th-gen TPU, Ironwood, purpose-built for inference and with massive gains (3,600x performance and 29x better energy efficiency our first Cloud TPU. It\u2019s coming later this year!)\n\nWe also announced that Cloud Wide Area Network, based on Google\u2019s own global-scale network, is coming soon too. And we launched new features in Google Agentspace that make it easier to create and adopt agents, as well as Gemini 2.5 Flash, our low-latency and most cost-efficient model with \u201cthinking\u201d built-in - coming soon in AI Studio, Vertex + Gemini app. \n\nAI enables powerful new capabilities, but the most exciting part is what people do with them. \n\nI saw an incredible example of that last night at Las Vegas Sphere, where we gave a sneak peek into how AI is helping to enrich the Wizard of Oz experience coming to the Sphere later this year. Google\u2019s been working with visual effects artists around the world and our AI models to effectively bring the film\u2019s original characters to a whole new life for 2025. We\u2019re a company full of engineers, problem solvers\u2026and movie buffs. So the prospect of introducing a classic American film to an entirely new generation was an exciting one!",
+        "engagement": 24865,
+        "line_count": 9,
+        "tags": [
+            "TPU",
+            "Google Cloud Next"
+        ]
+    },
+    {
+        "text": "Great to see Alphabet / Google at the top of this list. I've always thought the best 'perk' of the company is my fellow Googlers - brilliant, innovative, and entirely focused on making helpful things for our users and customers. Just a few weeks shy of my 21st (!) Googleversary and still feeling lucky.",
+        "engagement": 6261,
+        "line_count": 3,
+        "tags": [
+            "Alphabet",
+            "Google"
+        ]
+    },
+    {
+        "text": "It\u2019s not every day we have a launch that actually involves a rocket.  After a successful flight over the weekend, the first FireSat satellite is now in orbit! \ud83d\udef0\ufe0f It\u2019s the first of about 50 that we\u2019re launching over the coming few years to help track and detect wildfires, using AI. \n\nFireSat was designed to give us better tools to track and detect fires. Using advanced sensors and high resolution, it can detect a fire as small as 5x5 meters, which wasn't possible before. It updates every 20 minutes, comparing fresh imagery against historical data and factoring in local conditions like infrastructure and weather. Then it beams updates to emergency teams on the ground so they can react in real time. \n\nFireSat builds on our work using AI to map the boundaries of large wildfires and get people accurate information in 27 countries (including during the LA fires earlier this year.) In the next few weeks we\u2019ll start testing, and the system will be fully operational over the next few years.\n\nThis is a huge effort with many partners including Muon Space, Earth Fire Alliance, and the Gordon and Betty Moore Foundation. Here\u2019s a photo of the satellite on the launch pad last Friday, waiting for a ride:",
+        "engagement": 32499,
+        "line_count": 13,
+        "tags": [
+            "AI",
+            "FireSat"
+        ]
+    },
+    {
+        "text": "Bonjour! I\u2019m in Paris this week for the AI Action Summit, co-chaired by French President Emmanuel Macron and India\u2019s Prime Minister Narendra Modi. It\u2019s been amazing to see so many leaders across tech, business and government gathered in one place to talk about the opportunity with AI. \n\nAs I said in my remarks at the Grand Palais, that opportunity is as big as it gets. There are so many examples of how AI is already transforming science, business, and how we live, learn and work. It\u2019s why we at Google are so energized about this moment, and the most exciting use cases are still to come. (You can read my full remarks here: https://goo.gle/3CMn2qw). \n\nAfter the summit, I had the chance to visit the Institut Curie, which is using Google\u2019s AI tools to better predict the progression of women\u2019s cancers and develop more effective treatments. A year ago I visited the Institut for the first time to start these conversations. So much progress has been made in just a year! I got to look at some of the tissue samples that can now be processed at a massive scale, thanks to AI. It\u2019s an incredible reminder of the potential of this technology to save lives.",
+        "engagement": 16947,
+        "line_count": 17,
+        "tags": [
+            "AI",
+            "Google"
+        ]
+    },
+    {
+        "text": "Just wrapped my Q4 + FY earnings remarks. It was another strong quarter, capping off a great year at the company. We\u2019re in a great rhythm \u2013 building, testing and launching products faster than ever before. Our leadership in AI innovation and our unique full-stack approach is translating into product usage, revenue growth and results.\n\nWe saw dramatic progress in AI, including with our latest model Gemini 2.0. Over 4.4 million developers are now building with Gemini, our Gemini app is now on iOS and doing really well there, and we\u2019re seeing great feedback on our latest thinking models. Our Deep Research agentic research assistant, launched in December, is now on all Android devices, really recommend giving it a try if you haven\u2019t yet.\n\nIn Search, AI Overviews are now available in more than 100 countries, and continue to drive higher satisfaction and increased Search usage. Circle to Search is going great, too. 2025 is going to be a big year for search innovation.\n\nOur Cloud and YouTube businesses finished the year strong, reaching a combined annual run rate of $110 billion. Waymo safely served more than 4 million passenger trips and is expanding to more cities, including Tokyo. \n\nA big thank you to all Googlers around the world for this progress, I\u2019m excited for the year ahead.",
+        "engagement": 7778,
+        "line_count": 18,
+        "tags": [
+            "Search",
+            "AI"
+        ]
+    },
+    {
+        "text": "Today we\u2019re celebrating 1 million graduates of our Grow With Google Career Certificates. This is a special milestone for so many reasons, but most of all because it represents 1 million stories of people looking to pursue new opportunities and careers. People like James Bingham, a former staff sergeant in the US AirForce who landed a civilian job as an IT Project Manager with help from our Project Management certificate.That list also includes Natalie Burns, who I met in 2019. Natalie earned her Google IT Support certificate while attending community college in Texas. She got a job in cybersecurity and a significant pay increase. In total, more than 70% of graduates report a positive career outcome within 6 months of completing our certificates, be it a job change, a promotion, or a raise. \n\nIt also represents a greater impact than we could have imagined when we launched our first certificate in IT on Coursera in 2018. At the time, we were noticing a gap between the number of unfilled positions in tech and the number of people who were hungry to fill those roles, yet didn\u2019t have access to the necessary training. Our Career Certificates could help fill that gap, providing pathways to learning that didn\u2019t require a previous degree.\n\nMore than six years later, we now offer several certificates in fields like data analytics, cybersecurity, UX design and more. It\u2019s a model we think can be replicated and expanded to even more opportunities, which will be especially important as we transition the economy for the AI era.",
+        "engagement": 5032,
+        "line_count": 15,
+        "tags": [
+            "Google Career Certificates"
+        ]
+    },
+    {
+        "text": "One of the most profound ways AI will improve lives is by accelerating science and discovery. This week, Demis Hassabis, James Manyika, and other Google leaders hosted our first-ever AI for Science Forum to share some of our recent progress here - from our work on the Nobel Prize-winning AlphaFold, which cracked the \u201cgrand challenge\u201d of protein structure prediction, to connectomics research that helped map a tiny portion of the human brain in unprecedented detail to support health research, and much more.\n\nAI research breakthroughs are leading to real-world benefits, for example: improvements to our AI model can now accurately predict floods days earlier than previously possible, while our high-resolution satellite imagery can help firefighters spot wildfires before they grow out of control. \n\nTo help others expand their impact, we're launching a $20 million fund to support academic and nonprofit organizations who are using AI to advance scientific breakthroughs. This is on top of the more than $200 million Google.org has provided for this work over the last five years. \n\nAI has massive potential to benefit the world, so we are acting boldly to apply it as quickly as we can, while doing so responsibly. A huge thank you to all of the organizations and researchers around the world driving this important work forward.",
+        "engagement": 5165,
+        "line_count": 15,
+        "tags": [
+            "AI",
+            "Science"
+        ]
+    },
+    {
+        "text": "Just got off our Q3 earnings call. TL;DR: It was a great quarter. \n\nNow for the longer version: Over the last quarter, the momentum across the company continued to be extraordinary. Our commitment to innovation, and the long term focus and investment in AI, are driving success for the company and for our customers.\n\nWe are uniquely positioned to lead in the era of AI because of our differentiated full stack approach to innovation \u2014 from our robust AI infrastructure, to our world class research teams who do deep technical research and build the latest AI models (including Gemini), to the global reach of our products and platforms that touch billions of people and customers around the world. \n\nAlso want to call out that AI Overviews in Search will now reach 1B users globally across 100+ countries. We're seeing strong engagement, which is increasing overall search usage and user satisfaction. People are asking longer and more complex questions, and exploring a wider range of websites.\n\nPlus, I was excited to share the great momentum by our teams at YouTube, Cloud, Platforms & Devices and Waymo (took my parents for a Waymo ride a few weeks ago when we were out and about in San Francisco \u2014 they loved it!).",
+        "engagement": 12433,
+        "line_count": 9,
+        "tags": [
+            "AI",
+            "Q3 Earnings"
+        ]
+    },
+    {
+        "text": "What a special week for AI \u2026 huge congrats to Demis Hassabis and John Jumper for the Nobel in Chemistry recognizing the AlphaFold 2 breakthrough. It\u2019s been incredible to witness their Nobel Prize-winning work in the making \u2014 knew from the early days that AlphaFold would have a huge impact in the world. And congratulations to Geoff Hinton for the Nobel in Physics \u2014 so well deserved!",
+        "engagement": 2340,
+        "line_count": 4,
+        "tags": [
+            "John Jumper",
+            "Demis Hassabis",
+            "Geoff Hinton"
+        ]
+    },
+    {
+        "text": "This week my travels took me back to Japan, where we opened our first international office in 2001. I always find Japan to be a place willing to adopt new technologies, and I could clearly see the big shift in the progress happening with AI, from the cutting edge research to the vibrant startup AI ecosystem to an incredible developer community.\n\nThe main reason for my visit was for a gathering of Google's top customers in Japan, including government and business leaders. While there, I watched rakugo, a traditional form of Japanese comedy, for the first time. Bunshi Katsura, a legendary rakugo artist, showed me how he used Gemini to enhance his set. It was incredibly moving to see such an honored tradition transformed by AI, while keeping humanity at the heart.\n\nI also spent time with students and developers. I met with researchers from the Matsuo Lab at the University of Tokyo to hear more about how they are tackling hard challenges in AI, and middle school students taking part in Mind the Gap, our grassroots program designed to address the underrepresentation of women in technology. And I dropped by to say thank you to our Japanese and South Korean developer community and help unveil our Japanese-tuned Gemma 2 2B.\n\nOf course, my favorite part of traveling is seeing Googlers around the world. I joined Googlers at our Tokyo office and around the region to talk about the deep investments happening there and the incredible opportunities ahead. We also welcomed a very special celebrity guest to the Tokyo office \u2014 Pikachu \u2014 to celebrate an amazing milestone for Pok\u00e9mon Kids TV Japan (in addition to the millions of subscribers on their global channel). Couldn\u2019t resist a quick selfie with such a big superstar :)",
+        "engagement": 7219,
+        "line_count": 19,
+        "tags": [
+            "AI",
+            "Google"
+        ]
+    },
+    {
+        "text": "Yesterday I was in Pittsburgh, which is a really special place for me - one of the first cities I visited in the US and where we announced our Grow with Google economic opportunity initiative in 2017. I spent the day with the next generation of technologists, from high schoolers who are starting to explore STEM, to college students embarking on their computer science and technology careers.\n\nFirst stop - the Pittsburgh Google office where I spoke with students who shared STEM projects that they\u2019re working on, and teachers who are exploring how to bring AI into their classrooms. As part of that, we announced a $25 million fund from Google.org for organizations that are helping educators and students across the US build their AI skills.\n\nOver at Carnegie Mellon University, students showed me around the Robotics Institute and the Mission Control Lab, where I got to see a model of Iris, the smallest rover ever to go to space (very cool). While there, I gave a talk about how AI is accelerating scientific discovery and chatted with President Farnam Jahanian and over 2,000 students. Super inspiring and can't wait to come back!",
+        "engagement": 7946,
+        "line_count": 14,
+        "tags": [
+            "Google",
+            "Pittsburgh"
+        ]
+    }
+]
