@@ -90,5 +90,3 @@ This stage creates new posts in the user’s style using processed data and user
 - Add user authentication for multi-user capability
 - Deploy as a web service with persistent history
 - Integrate multilingual support and tone control
-
----
